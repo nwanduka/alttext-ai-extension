@@ -17,8 +17,6 @@ This extension removes the friction by automatically generating alt text using A
 - **Phase 3:** Smarter experience – tone presets, multi-language, context-aware alt text.  
 - **Phase 4:** API & plugin integrations – work directly with platforms.  
 
-Read more about the plan in the [Project Docs](./docs).
-
 ## 🛠️ How to Install (Development Mode)
 1. Clone this repository:
    ```bash
@@ -35,7 +33,7 @@ We’d love your help! Here are a few ways to contribute:
 - Report bugs or suggest features by opening an issue.
 - Pick a good first issue and submit a pull request.
 - Improve documentation (README, guides, examples).
-See our CONTRIBUTING.md for more details.
+See our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## 📜 License
 
